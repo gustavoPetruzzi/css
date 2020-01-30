@@ -1,0 +1,21 @@
+.box{
+    border: 5px black solid;
+    padding: 2px 4px 6px 8px;
+    margin: 2px 4px 6px 8px;
+    height: 300px;
+    width: 40%;
+    display: inline-block;
+
+}
+.one{
+    visibility: hidden;
+}
+/*
+div:last-child:hover{
+    background-color: green;
+}
+*/
+
+div:last-of-type:hover{
+    background-color: green;
+}

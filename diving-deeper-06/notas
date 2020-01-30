@@ -1,0 +1,10 @@
+inline blocks	--> mezcla comportamiento de los 2
+		--> inline --> elementos pueden ir uno al lado de otro
+		--> block  --> elementos pueden tener margin, padding, etc
+
+display --> none --> remueve el elemento
+visibility: hidder --> esconde el elemento--> mantiene la posicion pero el 
+					      elemento no esta
+
+
+
